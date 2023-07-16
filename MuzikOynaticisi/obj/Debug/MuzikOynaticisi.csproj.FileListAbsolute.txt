@@ -1,0 +1,101 @@
+C:\Users\Mert\Desktop\OdevOfOtherPeople\OnurcanAtasoy\Modern-Media-Player-UI-C-Sharp-master\MuzikOynaticisi\bin\Debug\MuzikOynaticisi.exe.config
+C:\Users\Mert\Desktop\OdevOfOtherPeople\OnurcanAtasoy\Modern-Media-Player-UI-C-Sharp-master\MuzikOynaticisi\bin\Debug\MuzikOynaticisi.exe
+C:\Users\Mert\Desktop\OdevOfOtherPeople\OnurcanAtasoy\Modern-Media-Player-UI-C-Sharp-master\MuzikOynaticisi\bin\Debug\MuzikOynaticisi.pdb
+C:\Users\Mert\Desktop\OdevOfOtherPeople\OnurcanAtasoy\Modern-Media-Player-UI-C-Sharp-master\MuzikOynaticisi\bin\Debug\CSCore.dll
+C:\Users\Mert\Desktop\OdevOfOtherPeople\OnurcanAtasoy\Modern-Media-Player-UI-C-Sharp-master\MuzikOynaticisi\bin\Debug\CSCore.xml
+C:\Users\Mert\Desktop\OdevOfOtherPeople\OnurcanAtasoy\Modern-Media-Player-UI-C-Sharp-master\MuzikOynaticisi\obj\Debug\MuzikOynaticisi.csproj.AssemblyReference.cache
+C:\Users\Mert\Desktop\OdevOfOtherPeople\OnurcanAtasoy\Modern-Media-Player-UI-C-Sharp-master\MuzikOynaticisi\obj\Debug\MuzikOynaticisi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mert\Desktop\OdevOfOtherPeople\OnurcanAtasoy\Modern-Media-Player-UI-C-Sharp-master\MuzikOynaticisi\obj\Debug\MuzikOynaticisi.Properties.Resources.resources
+C:\Users\Mert\Desktop\OdevOfOtherPeople\OnurcanAtasoy\Modern-Media-Player-UI-C-Sharp-master\MuzikOynaticisi\obj\Debug\MuzikOynaticisi.csproj.GenerateResource.cache
+C:\Users\Mert\Desktop\OdevOfOtherPeople\OnurcanAtasoy\Modern-Media-Player-UI-C-Sharp-master\MuzikOynaticisi\obj\Debug\MuzikOynaticisi.csproj.CoreCompileInputs.cache
+C:\Users\Mert\Desktop\OdevOfOtherPeople\OnurcanAtasoy\Modern-Media-Player-UI-C-Sharp-master\MuzikOynaticisi\obj\Debug\MuzikOynaticisi.csproj.CopyComplete
+C:\Users\Mert\Desktop\OdevOfOtherPeople\OnurcanAtasoy\Modern-Media-Player-UI-C-Sharp-master\MuzikOynaticisi\obj\Debug\MuzikOynaticisi.exe
+C:\Users\Mert\Desktop\OdevOfOtherPeople\OnurcanAtasoy\Modern-Media-Player-UI-C-Sharp-master\MuzikOynaticisi\obj\Debug\MuzikOynaticisi.pdb
+C:\Users\Mert\Desktop\OdevOfOtherPeople\OnurcanAtasoy\Modern-Media-Player-UI-C-Sharp-master\MuzikOynaticisi\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Mert\Desktop\OdevOfOtherPeople\OnurcanAtasoy\Modern-Media-Player-UI-C-Sharp-master\MuzikOynaticisi\bin\Debug\NAudio.Asio.dll
+C:\Users\Mert\Desktop\OdevOfOtherPeople\OnurcanAtasoy\Modern-Media-Player-UI-C-Sharp-master\MuzikOynaticisi\bin\Debug\NAudio.Core.dll
+C:\Users\Mert\Desktop\OdevOfOtherPeople\OnurcanAtasoy\Modern-Media-Player-UI-C-Sharp-master\MuzikOynaticisi\bin\Debug\NAudio.dll
+C:\Users\Mert\Desktop\OdevOfOtherPeople\OnurcanAtasoy\Modern-Media-Player-UI-C-Sharp-master\MuzikOynaticisi\bin\Debug\NAudio.Midi.dll
+C:\Users\Mert\Desktop\OdevOfOtherPeople\OnurcanAtasoy\Modern-Media-Player-UI-C-Sharp-master\MuzikOynaticisi\bin\Debug\NAudio.Wasapi.dll
+C:\Users\Mert\Desktop\OdevOfOtherPeople\OnurcanAtasoy\Modern-Media-Player-UI-C-Sharp-master\MuzikOynaticisi\bin\Debug\NAudio.WinForms.dll
+C:\Users\Mert\Desktop\OdevOfOtherPeople\OnurcanAtasoy\Modern-Media-Player-UI-C-Sharp-master\MuzikOynaticisi\bin\Debug\NAudio.WinMM.dll
+C:\Users\Mert\Desktop\OdevOfOtherPeople\OnurcanAtasoy\Modern-Media-Player-UI-C-Sharp-master\MuzikOynaticisi\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Mert\Desktop\OdevOfOtherPeople\OnurcanAtasoy\Modern-Media-Player-UI-C-Sharp-master\MuzikOynaticisi\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Mert\Desktop\OdevOfOtherPeople\OnurcanAtasoy\Modern-Media-Player-UI-C-Sharp-master\MuzikOynaticisi\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Mert\Desktop\OdevOfOtherPeople\OnurcanAtasoy\Modern-Media-Player-UI-C-Sharp-master\MuzikOynaticisi\bin\Debug\NAudio.xml
+C:\Users\Mert\Desktop\OdevOfOtherPeople\OnurcanAtasoy\Modern-Media-Player-UI-C-Sharp-master\MuzikOynaticisi\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Mert\Desktop\OdevOfOtherPeople\OnurcanAtasoy\Modern-Media-Player-UI-C-Sharp-master\MuzikOynaticisi\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Mert\Desktop\OdevOfOtherPeople\OnurcanAtasoy\Modern-Media-Player-UI-C-Sharp-master\MuzikOynaticisi\obj\Debug\PlayerUI.CalarKisim.resources
+C:\Users\Mert\Desktop\OdevOfOtherPeople\OnurcanAtasoy\Modern-Media-Player-UI-C-Sharp-master\MuzikOynaticisi\obj\Debug\PlayerUI.Muziklerim.resources
+C:\Users\Mert\Desktop\OdevOfOtherPeople\OnurcanAtasoy\Modern-Media-Player-UI-C-Sharp-master\MuzikOynaticisi\obj\Debug\PlayerUI.CalmaGecmisi.resources
+C:\Users\Mert\Desktop\OdevOfOtherPeople\OnurcanAtasoy\Modern-Media-Player-UI-C-Sharp-master\MuzikOynaticisi\obj\Debug\MuzikOynaticisi.OynatmaListesiEkle.resources
+C:\Users\Mert\Desktop\OdevOfOtherPeople\OnurcanAtasoy\Modern-Media-Player-UI-C-Sharp-master\MuzikOynaticisi\obj\Debug\MuzikOynaticisi.ListeleriDuzenle.resources
+C:\Users\Mert\Desktop\OdevOfOtherPeople\OnurcanAtasoy\Modern-Media-Player-UI-C-Sharp-master\MuzikOynaticisi\obj\Debug\MuzikOynaticisi.YenidenAdlandirKutucuk.resources
+C:\Users\Mert\Desktop\OdevOfOtherPeople\OnurcanAtasoy\Modern-Media-Player-UI-C-Sharp-master\MuzikOynaticisi\obj\Debug\MuzikOynaticisi.BilgiGoster.resources
+C:\Users\Mert\Desktop\New folder\OdevOfOtherPeople\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\MuzikOynaticisi\bin\Debug\MuzikOynaticisi.exe.config
+C:\Users\Mert\Desktop\New folder\OdevOfOtherPeople\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\MuzikOynaticisi\bin\Debug\MuzikOynaticisi.exe
+C:\Users\Mert\Desktop\New folder\OdevOfOtherPeople\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\MuzikOynaticisi\bin\Debug\MuzikOynaticisi.pdb
+C:\Users\Mert\Desktop\New folder\OdevOfOtherPeople\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\MuzikOynaticisi\bin\Debug\CSCore.dll
+C:\Users\Mert\Desktop\New folder\OdevOfOtherPeople\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\MuzikOynaticisi\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Mert\Desktop\New folder\OdevOfOtherPeople\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\MuzikOynaticisi\bin\Debug\NAudio.Asio.dll
+C:\Users\Mert\Desktop\New folder\OdevOfOtherPeople\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\MuzikOynaticisi\bin\Debug\NAudio.Core.dll
+C:\Users\Mert\Desktop\New folder\OdevOfOtherPeople\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\MuzikOynaticisi\bin\Debug\NAudio.dll
+C:\Users\Mert\Desktop\New folder\OdevOfOtherPeople\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\MuzikOynaticisi\bin\Debug\NAudio.Midi.dll
+C:\Users\Mert\Desktop\New folder\OdevOfOtherPeople\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\MuzikOynaticisi\bin\Debug\NAudio.Wasapi.dll
+C:\Users\Mert\Desktop\New folder\OdevOfOtherPeople\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\MuzikOynaticisi\bin\Debug\NAudio.WinForms.dll
+C:\Users\Mert\Desktop\New folder\OdevOfOtherPeople\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\MuzikOynaticisi\bin\Debug\NAudio.WinMM.dll
+C:\Users\Mert\Desktop\New folder\OdevOfOtherPeople\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\MuzikOynaticisi\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Mert\Desktop\New folder\OdevOfOtherPeople\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\MuzikOynaticisi\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Mert\Desktop\New folder\OdevOfOtherPeople\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\MuzikOynaticisi\bin\Debug\CSCore.xml
+C:\Users\Mert\Desktop\New folder\OdevOfOtherPeople\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\MuzikOynaticisi\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Mert\Desktop\New folder\OdevOfOtherPeople\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\MuzikOynaticisi\bin\Debug\NAudio.xml
+C:\Users\Mert\Desktop\New folder\OdevOfOtherPeople\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\MuzikOynaticisi\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Mert\Desktop\New folder\OdevOfOtherPeople\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\MuzikOynaticisi\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Mert\Desktop\New folder\OdevOfOtherPeople\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\MuzikOynaticisi\obj\Debug\MuzikOynaticisi.csproj.AssemblyReference.cache
+C:\Users\Mert\Desktop\New folder\OdevOfOtherPeople\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\MuzikOynaticisi\obj\Debug\MuzikOynaticisi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mert\Desktop\New folder\OdevOfOtherPeople\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\MuzikOynaticisi\obj\Debug\MuzikOynaticisi.BilgiGoster.resources
+C:\Users\Mert\Desktop\New folder\OdevOfOtherPeople\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\MuzikOynaticisi\obj\Debug\PlayerUI.CalarKisim.resources
+C:\Users\Mert\Desktop\New folder\OdevOfOtherPeople\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\MuzikOynaticisi\obj\Debug\MuzikOynaticisi.ListeleriDuzenle.resources
+C:\Users\Mert\Desktop\New folder\OdevOfOtherPeople\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\MuzikOynaticisi\obj\Debug\PlayerUI.Muziklerim.resources
+C:\Users\Mert\Desktop\New folder\OdevOfOtherPeople\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\MuzikOynaticisi\obj\Debug\PlayerUI.CalmaGecmisi.resources
+C:\Users\Mert\Desktop\New folder\OdevOfOtherPeople\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\MuzikOynaticisi\obj\Debug\MuzikOynaticisi.OynatmaListesiEkle.resources
+C:\Users\Mert\Desktop\New folder\OdevOfOtherPeople\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\MuzikOynaticisi\obj\Debug\MuzikOynaticisi.Properties.Resources.resources
+C:\Users\Mert\Desktop\New folder\OdevOfOtherPeople\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\MuzikOynaticisi\obj\Debug\MuzikOynaticisi.YenidenAdlandirKutucuk.resources
+C:\Users\Mert\Desktop\New folder\OdevOfOtherPeople\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\MuzikOynaticisi\obj\Debug\MuzikOynaticisi.csproj.GenerateResource.cache
+C:\Users\Mert\Desktop\New folder\OdevOfOtherPeople\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\MuzikOynaticisi\obj\Debug\MuzikOynaticisi.csproj.CoreCompileInputs.cache
+C:\Users\Mert\Desktop\New folder\OdevOfOtherPeople\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\MuzikOynaticisi\obj\Debug\MuzikOynaticisi.csproj.CopyComplete
+C:\Users\Mert\Desktop\New folder\OdevOfOtherPeople\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\MuzikOynaticisi\obj\Debug\MuzikOynaticisi.exe
+C:\Users\Mert\Desktop\New folder\OdevOfOtherPeople\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\MuzikOynaticisi\obj\Debug\MuzikOynaticisi.pdb
+C:\Users\Mert\Desktop\New folder\OdevOfOtherPeople\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\MusicPlayer\MuzikOynaticisi\bin\Debug\MuzikOynaticisi.exe.config
+C:\Users\Mert\Desktop\New folder\OdevOfOtherPeople\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\MusicPlayer\MuzikOynaticisi\bin\Debug\MuzikOynaticisi.exe
+C:\Users\Mert\Desktop\New folder\OdevOfOtherPeople\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\MusicPlayer\MuzikOynaticisi\bin\Debug\MuzikOynaticisi.pdb
+C:\Users\Mert\Desktop\New folder\OdevOfOtherPeople\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\MusicPlayer\MuzikOynaticisi\bin\Debug\CSCore.dll
+C:\Users\Mert\Desktop\New folder\OdevOfOtherPeople\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\MusicPlayer\MuzikOynaticisi\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Mert\Desktop\New folder\OdevOfOtherPeople\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\MusicPlayer\MuzikOynaticisi\bin\Debug\NAudio.Asio.dll
+C:\Users\Mert\Desktop\New folder\OdevOfOtherPeople\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\MusicPlayer\MuzikOynaticisi\bin\Debug\NAudio.Core.dll
+C:\Users\Mert\Desktop\New folder\OdevOfOtherPeople\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\MusicPlayer\MuzikOynaticisi\bin\Debug\NAudio.dll
+C:\Users\Mert\Desktop\New folder\OdevOfOtherPeople\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\MusicPlayer\MuzikOynaticisi\bin\Debug\NAudio.Midi.dll
+C:\Users\Mert\Desktop\New folder\OdevOfOtherPeople\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\MusicPlayer\MuzikOynaticisi\bin\Debug\NAudio.Wasapi.dll
+C:\Users\Mert\Desktop\New folder\OdevOfOtherPeople\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\MusicPlayer\MuzikOynaticisi\bin\Debug\NAudio.WinForms.dll
+C:\Users\Mert\Desktop\New folder\OdevOfOtherPeople\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\MusicPlayer\MuzikOynaticisi\bin\Debug\NAudio.WinMM.dll
+C:\Users\Mert\Desktop\New folder\OdevOfOtherPeople\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\MusicPlayer\MuzikOynaticisi\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Mert\Desktop\New folder\OdevOfOtherPeople\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\MusicPlayer\MuzikOynaticisi\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Mert\Desktop\New folder\OdevOfOtherPeople\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\MusicPlayer\MuzikOynaticisi\bin\Debug\CSCore.xml
+C:\Users\Mert\Desktop\New folder\OdevOfOtherPeople\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\MusicPlayer\MuzikOynaticisi\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Mert\Desktop\New folder\OdevOfOtherPeople\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\MusicPlayer\MuzikOynaticisi\bin\Debug\NAudio.xml
+C:\Users\Mert\Desktop\New folder\OdevOfOtherPeople\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\MusicPlayer\MuzikOynaticisi\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Mert\Desktop\New folder\OdevOfOtherPeople\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\MusicPlayer\MuzikOynaticisi\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Mert\Desktop\New folder\OdevOfOtherPeople\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\MusicPlayer\MuzikOynaticisi\obj\Debug\MuzikOynaticisi.csproj.AssemblyReference.cache
+C:\Users\Mert\Desktop\New folder\OdevOfOtherPeople\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\MusicPlayer\MuzikOynaticisi\obj\Debug\MuzikOynaticisi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mert\Desktop\New folder\OdevOfOtherPeople\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\MusicPlayer\MuzikOynaticisi\obj\Debug\MuzikOynaticisi.BilgiGoster.resources
+C:\Users\Mert\Desktop\New folder\OdevOfOtherPeople\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\MusicPlayer\MuzikOynaticisi\obj\Debug\PlayerUI.CalarKisim.resources
+C:\Users\Mert\Desktop\New folder\OdevOfOtherPeople\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\MusicPlayer\MuzikOynaticisi\obj\Debug\MuzikOynaticisi.ListeleriDuzenle.resources
+C:\Users\Mert\Desktop\New folder\OdevOfOtherPeople\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\MusicPlayer\MuzikOynaticisi\obj\Debug\PlayerUI.Muziklerim.resources
+C:\Users\Mert\Desktop\New folder\OdevOfOtherPeople\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\MusicPlayer\MuzikOynaticisi\obj\Debug\PlayerUI.CalmaGecmisi.resources
+C:\Users\Mert\Desktop\New folder\OdevOfOtherPeople\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\MusicPlayer\MuzikOynaticisi\obj\Debug\MuzikOynaticisi.OynatmaListesiEkle.resources
+C:\Users\Mert\Desktop\New folder\OdevOfOtherPeople\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\MusicPlayer\MuzikOynaticisi\obj\Debug\MuzikOynaticisi.YenidenAdlandirKutucuk.resources
+C:\Users\Mert\Desktop\New folder\OdevOfOtherPeople\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\MusicPlayer\MuzikOynaticisi\obj\Debug\MuzikOynaticisi.csproj.GenerateResource.cache
+C:\Users\Mert\Desktop\New folder\OdevOfOtherPeople\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\MusicPlayer\MuzikOynaticisi\obj\Debug\MuzikOynaticisi.csproj.CoreCompileInputs.cache
+C:\Users\Mert\Desktop\New folder\OdevOfOtherPeople\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\MusicPlayer\MuzikOynaticisi\obj\Debug\MuzikOynaticisi.csproj.CopyComplete
+C:\Users\Mert\Desktop\New folder\OdevOfOtherPeople\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\MusicPlayer\MuzikOynaticisi\obj\Debug\MuzikOynaticisi.exe
+C:\Users\Mert\Desktop\New folder\OdevOfOtherPeople\OnurcanAtasoy\OnurcanAtasoy\OnurcanAtasoy\MusicPlayer\MuzikOynaticisi\obj\Debug\MuzikOynaticisi.pdb
